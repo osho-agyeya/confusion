@@ -7,14 +7,13 @@ class App extends Component {
 
   render() {
     return (
-    	<BrowserRouter>
-      <div>
-            <Main />
-      </div>
+      <BrowserRouter>
+        <div className="App">
+          <Main />
+        </div>
       </BrowserRouter>
     );
   }
 }
-
 
 export default App;
