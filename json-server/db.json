@@ -217,6 +217,14 @@
       "comment": "debdeep mohanty's review",
       "date": "2019-12-17T16:30:56.992Z",
       "id": 21
+    },
+    {
+      "dishId": 3,
+      "rating": "1",
+      "author": "osho",
+      "comment": "sample rating",
+      "date": "2020-01-09T00:21:49.099Z",
+      "id": 22
     }
   ],
   "promotions": [
