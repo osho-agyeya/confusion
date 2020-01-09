@@ -1,3 +1,17 @@
+The final files are present in json-server folder. Enter the folder and run the following command.
+
+```json-server --watch db.json -d 2000 -p 3001 ```
+
+Open localhost:3001/
+
+![](/display/screencapture-localhost-3001-home-2020-01-09-05_47_07.png)
+![](/display/screencapture-localhost-3001-menu-2020-01-09-05_47_36.png)
+![](/display/screencapture-localhost-3001-menu-0-2020-01-09-05_47_42.png)
+![](/display/screencapture-localhost-3001-contactus-2020-01-09-05_47_53.png)
+![](/display/screencapture-localhost-3001-aboutus-2020-01-09-05_47_23.png)
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
